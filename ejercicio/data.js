@@ -50,7 +50,7 @@ export const users =[
         id: 9,
         name: "Guillermo Garrido",
         instructor: false,
-        asignaciones: [1,2,4,6]
+        asignaciones: [1]
     },
     {
         id: 10,
@@ -76,12 +76,11 @@ export const users =[
         instructor: false,
         asignaciones: [5,6,7]
     },
-    ,
     {
         id: 14,
         name: "Juan Camilo",
         instructor: false,
-        asignaciones: [2,4,6]
+        asignaciones: []
     }
 
 ]
